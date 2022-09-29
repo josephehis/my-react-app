@@ -18,7 +18,7 @@ class InputComponent extends React.Component{
 
     handleClassChange=(event)=>this.setState({studentClass:event.target.value});
 
-    /// setState
+    
 
     render(){ 
 
