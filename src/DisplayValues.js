@@ -4,7 +4,7 @@ import React from 'react';
 
 class DisplayValues extends React.Component{
 
-// conditional rendering
+
     render(){
 
         const {studentFirstName, studentLastName, studentClassName}= this.props;
